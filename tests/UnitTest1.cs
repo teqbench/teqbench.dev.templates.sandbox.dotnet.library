@@ -1,4 +1,4 @@
-﻿namespace TeqBench.Dev.Templates.DotNet.NuGet.Tests;
+﻿namespace TeqBench.Dev.Templates.Sandbox.DotNet.Library.Tests;
 
 [TestClass]
 public class UnitTest1
