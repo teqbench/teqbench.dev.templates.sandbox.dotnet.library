@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+	<!--
+	Import common project file settings via teqbench.dev submodule.
+	-->
+	<Import Project="../.submodules/teqbench.dev/TeqBench.Dev.Project.Config.props" />
+	<Import Project="../.submodules/teqbench.dev/TeqBench.Dev.Project.Tooling.props" />
+	<Import Project="../.submodules/teqbench.dev/TeqBench.Dev.Project.Packaging.props" />
+	<Import Project="../.submodules/teqbench.dev/TeqBench.Dev.Project.Versioning.props" />
+	<PropertyGroup>
+		<Description>TeqBench template for creating NuGet packages from .NET solution/project.</Description>
+		<RootNamespace>TeqBench.Dev.Templates.DotNet.NuGet</RootNamespace>
+		<AssemblyName>TeqBench.Dev.Templates.DotNet.NuGet</AssemblyName>
+	</PropertyGroup>
+</Project>
