@@ -7,7 +7,7 @@
 Template repository for a .NET library sandbox including unit tests.
 
 > [!NOTE]
-> After cloning, remember to init the submodules. See [https://github.com/teqbench/teqbench.dev](https://github.com/teqbench/teqbench.dev) for more information.
+> After cloning, remember to init/update the submodules. See [https://github.com/teqbench/teqbench.dev](https://github.com/teqbench/teqbench.dev) for more information.
 
 ### Update Template Names
 
